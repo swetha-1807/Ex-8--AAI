@@ -1,6 +1,6 @@
  <H3>ENTER YOUR NAME: SWETHA K</H3>
 <H3>ENTER YOUR REGISTER NO: 212224230284</H3>
-<H3>EX. NO.8</H3>
+<H3>EX. NO.10</H3>
 <H3>DATE: 06.09.2026</H3>
 <H1 ALIGN =CENTER>Implementation of Speech Recognition</H1>
 <H3>Aim:</H3> 
